@@ -1,5 +1,7 @@
 # Vue-Style-Guide
 
+> 遵循elint规范，vue官方风格指南
+
 ### 1 Vue属性书写顺序
 
 ```html
